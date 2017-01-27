@@ -1,4 +1,4 @@
 time trial 1
 
 start time: 9:30
-end time:
+end time: 9:48
